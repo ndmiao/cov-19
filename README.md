@@ -140,4 +140,6 @@ mysql> flush privileges;
 *该系统大屏展示页面参考[https://www.bilibili.com/video/BV177411j7qJ](https://www.bilibili.com/video/BV177411j7qJ)实现*
 
 # 打赏链接
-![支付宝](https://www.ndmiao.cn/zhifubao.bmp)![微信](https://www.ndmiao.cn/weixin.bmp)
+|  支付宝   | 微信  |
+|  ----  | ----  |
+| ![](https://www.ndmiao.cn/zhifubao.bmp)  | ![](https://www.ndmiao.cn/weixin.bmp) |
