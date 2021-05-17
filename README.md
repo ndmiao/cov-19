@@ -139,7 +139,7 @@ mysql> flush privileges;
 **参考**
 *该系统大屏展示页面参考[https://www.bilibili.com/video/BV177411j7qJ](https://www.bilibili.com/video/BV177411j7qJ)实现*
 
-# 打赏链接
+# 打赏
 |  支付宝   | 微信  |
 |  ----  | ----  |
 | ![](https://pan.ndmiao.cn/picture/%E5%AE%9E%E4%B9%A0/QQ%E6%88%AA%E5%9B%BE20210517230903.png)  | ![](https://pan.ndmiao.cn/picture/%E5%AE%9E%E4%B9%A0/QQ%E6%88%AA%E5%9B%BE20210517230918.png) |
