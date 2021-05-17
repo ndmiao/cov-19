@@ -142,4 +142,4 @@ mysql> flush privileges;
 # 打赏链接
 |  支付宝   | 微信  |
 |  ----  | ----  |
-| ![](https://www.ndmiao.cn/zhifubao.bmp)  | ![](https://www.ndmiao.cn/weixin.bmp) |
+| ![](https://pan.ndmiao.cn/picture/%E5%AE%9E%E4%B9%A0/QQ%E6%88%AA%E5%9B%BE20210517230903.png)  | ![](https://pan.ndmiao.cn/picture/%E5%AE%9E%E4%B9%A0/QQ%E6%88%AA%E5%9B%BE20210517230918.png) |
