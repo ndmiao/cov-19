@@ -1,0 +1,97 @@
+
+  #title {
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    top: 0;
+    left: 30%;
+    /* background: aquamarine; */
+    color: white;
+    font-size: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #m1 {
+    position: absolute;
+    top: 10%;
+    width: 40%;
+    height: 70%;
+    left: 30%;
+    /* background: rgb(28, 95, 172); */
+  }
+  #m2 {
+    position: absolute;
+    width: 40%;
+    height: 20%;
+    top: 80%;
+    left: 30%;
+    /* background: rgb(165, 30, 147); */
+    color: white;
+  }
+  #l1 {
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    top: 10%;
+    left: 0;
+    /* background: rgb(26, 109, 148); */
+  }
+  #l2 {
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    top: 55%;
+    left: 0;
+    /* background: aquamarine; */
+  }
+  #r1 {
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    top: 10%;
+    left: 70%;
+    /* background: rgb(41, 236, 171); */
+  }
+  #r2 {
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    top: 55%;
+    left: 70%;
+    /* background: aquamarine; */
+  }
+  #tim {
+    position: absolute;
+    /* width: 30%; */
+    height: 10%;
+    top: 5%;
+    right: 2%;
+    color: white;
+    /* background: rgb(61, 138, 112);     */
+    font-size: 1vw;
+  }
+  .num {
+    width: 25%;
+    height: 50%;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    font-size: 1vw;
+  }
+  .txt {
+    width: 25%;
+    height: 30%;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "幼圆";
+    font-size: 1vw;
+  }
+
+
+
+  

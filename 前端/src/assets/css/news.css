@@ -1,0 +1,117 @@
+#AllBack {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #c9d6df;
+}
+
+#NewsBack {
+    position: absolute;
+    left: 15%;
+    width: 70%;
+    height: 100%;
+    background-color: #f0f5f9;
+}
+
+.NewsTitle {
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    /* background-color: #2f638d;   */
+    color: #52616b;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+.Card {
+    position: absolute;
+    left: 5%;
+    top: 10%;
+    width: 90%;
+    height: 30%;
+    /* background-color: aqua; */
+}
+
+.China {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    width: 40%;
+    height: 50%;
+    /* background-color: rgb(32, 122, 62);     */
+}
+
+.World {
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    width: 40%;
+    height: 50%;
+    /* background-color: rgb(116, 17, 78);     */
+}
+
+.el-carousel__item h3 {
+    color: #475669;
+    font-size: 14px;
+    opacity: 0.75;
+    line-height: 200px;
+    margin: 0;
+  }
+  
+  .el-carousel__item:nth-child(2n) {
+    background-color: #99a9bf;
+  }
+  
+  .el-carousel__item:nth-child(2n+1) {
+    background-color: #d3dce6;
+  }
+
+  img {height:100%;width:100%;}
+
+  .showtitle {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 30%;
+    backdrop-filter: blur(2px) brightness(50%);
+    background-color: rgba(255, 255, 255, 0.1);
+    display: flex;
+    align-items: center; 
+  }
+
+  .cardtitle {
+      color:azure;
+  }
+
+
+  .cardstyle {width:100%;height:100px;background:white}
+  .card_pic {
+      position: relative;
+      top: 10%;
+      width: 35%;
+      height: 80%;
+  }
+  .card_title {
+    position: relative;
+    top:-70%;
+    height:70%;
+    width:240px;
+    word-break: break-word;
+    white-space: pre-line;
+    left: 40%;
+  }
+  .card_source {
+    position: relative;
+    top:-85%;
+    height: 10%;
+    left: 40%;
+    font-size: small;
+  }
+  .card_time {
+    position: relative;
+    top:-95%;
+    left: 60%;
+    font-size: small;
+  }
+

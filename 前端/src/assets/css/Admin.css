@@ -1,0 +1,25 @@
+#myBack {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}
+
+#Select {
+    position: absolute;
+    top: 10%;
+    width: 50%;
+    height: 10%;
+    left: 10%;
+
+}
+
+#Show {
+    position: absolute;
+    top: 20%;
+    width: 80%;
+    height: 70%;
+    left: 10%;
+}
+
+.el-table--border th.gutter:last-of-type { display: block!important; width: 17px!important; }
